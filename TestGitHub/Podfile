@@ -1,0 +1,6 @@
+target 'TestGitHub' do
+pod 'SDWebImage'
+pod 'SDWebImage/GIF'
+pod 'AFNetworking'
+pod 'Masonry'
+end
